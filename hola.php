@@ -73,14 +73,7 @@
             background-color: #fff;
         }
 
-#borrado {
-    border: 1px solid #ccc;
-            padding: 8px;
-            text-align: center;
-            border-radius: 5px;
 
-
-}
 
         
     </style>
@@ -122,7 +115,7 @@
 
     <!-- Formulario para ingresar datos -->
     <form method="post">
-        <label for="nombre">Nombre:</label>
+        <label for="nombre">NOBMRES:</label>
         <input type="text" name="nombre" id="nombre" required><br>
 
         <label for="apellido">Apellido:</label>
