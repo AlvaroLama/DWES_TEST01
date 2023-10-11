@@ -115,7 +115,7 @@
 
     <!-- Formulario para ingresar datos -->
     <form method="post">
-        <label for="nombre">NOBMRES:</label>
+        <label for="nombre">NOMBESV02:</label>
         <input type="text" name="nombre" id="nombre" required><br>
 
         <label for="apellido">Apellido:</label>
